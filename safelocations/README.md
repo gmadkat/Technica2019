@@ -14,10 +14,5 @@
 
 [FourSquare API](https://foursquare.com/developers/apps) : Used to load the venue array
 
-[Firebase](https://console.firebase.google.com/u/0/project/safelocation-518d0/database/firestore/data~2FLocationComment)
+[Firebase](https://console.firebase.google.com/u/0/project/safelocation-518d0/database/firestore/data~2FLocationComment) : Used to store information about a location 
 
-### TODO
-
-add animations for selected map markers
-give info window contents more style
-break down application into smaller components
