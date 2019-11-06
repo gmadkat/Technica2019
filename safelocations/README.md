@@ -1,4 +1,4 @@
-# FEND Neighborhood Map Project 8
+# Starter project for the safe neighborhood demo
 
 ## Setting up the application
 
@@ -13,6 +13,8 @@
 [Google Maps JS API](https://developers.google.com/maps/documentation/javascript/tutorial) : Used to generate the map, markers, and infowindows
 
 [FourSquare API](https://foursquare.com/developers/apps) : Used to load the venue array
+
+[Firebase](https://console.firebase.google.com/u/0/project/safelocation-518d0/database/firestore/data~2FLocationComment)
 
 ### TODO
 
